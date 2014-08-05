@@ -9,3 +9,5 @@ simply.on('singleClick', function(e) {
 simply.on('longClick', function(e) {
   simply.subtitle('You held the ' + e.button + ' button!');
 });
+Pebble.showSimpleNotificationOnPebble('Hello!',
+  'Notifications from JavaScript? Welcome to the future!');
