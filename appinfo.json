@@ -6,7 +6,7 @@
     ],
     "companyName": "Pebble Tecnology",
     "longName": "App Log Demo",
-    "projectType": "native",
+    "projectType": "simplyjs",
     "resources": {
         "media": [
             {
